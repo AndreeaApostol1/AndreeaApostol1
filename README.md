@@ -63,8 +63,7 @@ Notepad++, Excel)
 
 ## Code Samples
 
-
-- [Link to Project 1 Repository](link-to-project-1-repo)
+- [Link to Project 1 Repository]([link-to-project-1-repo](https://github.com/AndreeaApostol1/liveproject1))
 - [Link to Project 2 Repository](link-to-project-2-repo)
 
 ## Workshops and Courses
