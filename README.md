@@ -47,12 +47,16 @@ Notepad++, Excel)
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: [liveproject1]
 
-- **Description:** A brief overview of the project and its objectives.
-- **Technologies:** List the technologies, tools, and frameworks used.
-- **Responsibilities:** Detail your roles and responsibilities in the project.
-- **Key Achievements:** Highlight noteworthy accomplishments or results.
+- **Description:** This is a project similar to how to test a web application in the real world.
+- **Technologies:** Maven, TestNG, POM.xml file, testng.xml file, Jenkins
+- **Responsibilities:** Test various pages from test store, make use of the Page Object Model, use a testng.xml file to control what tests to run, building a framework from scratch.
+- **Key Achievements:**
+   POM - Learn how to follow good design practices that are maintainable;
+   Parametrisation, global variables and the importance of a base page;
+   Jenkins Continuous Integration-how to automatically trigger tests based on the date/time we decide;
+   How to achieve Parallel Execution using Thread Local.
 
 ### Project 2: [Project Name]
 
