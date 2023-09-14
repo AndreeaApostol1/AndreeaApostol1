@@ -58,7 +58,7 @@ Notepad++, Excel)
    Jenkins Continuous Integration-how to automatically trigger tests based on the date/time we decide;
    How to achieve Parallel Execution using Thread Local.
 
-### Project 2: [Project Name]
+### Project 2: [liveproject2]
 
 - **Description:** A concise description of the project and its goals.
 - **Technologies:** List the technologies and tools used.
@@ -68,7 +68,7 @@ Notepad++, Excel)
 ## Code Samples
 
 - [Link to Project 1 Repository](https://github.com/AndreeaApostol1/liveproject1)
-- [Link to Project 2 Repository](link-to-project-2-repo)
+- [Link to Project 2 Repository](https://github.com/AndreeaApostol1/liveproject2)
 
 ## Workshops and Courses
 - WANTSOME - ACADEMIA PRIETENOASA DE IT- Manual Testing and Introduction in Automated Testing Course
