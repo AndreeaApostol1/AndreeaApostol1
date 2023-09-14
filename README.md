@@ -1,4 +1,4 @@
-# [APOSTOL ANDREEA-GEORGIANA] - Aspiring Junior Software Tester (Manual & Automation)
+# APOSTOL ANDREEA-GEORGIANA -  Junior Software Tester (Manual & Automation)
 
 
 
