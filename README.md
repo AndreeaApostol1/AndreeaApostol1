@@ -40,6 +40,7 @@ Notepad++, Excel)
 ## Skills
 
 - **Manual Testing:** Proficient in creating and executing test plans and test cases.
+- **Automated Testing:** I have created various projects using Selenium WebDriver and interacted with web elements.
 - **Analytical Skills:** Strong ability to analyze data and identify trends.
 - **Attention to Detail:** Meticulous attention to detail for defect identification and reporting.
 - **Budget Management:** Experience in cost control and budget restructuring.
@@ -53,17 +54,17 @@ Notepad++, Excel)
 - **Technologies:** Maven, TestNG, POM.xml file, testng.xml file, Jenkins
 - **Responsibilities:** Test various pages from test store, make use of the Page Object Model, use a testng.xml file to control what tests to run, building a framework from scratch.
 - **Key Achievements:**
-   POM - Learn how to follow good design practices that are maintainable;
-   Parametrisation, global variables and the importance of a base page;
-   Jenkins Continuous Integration-how to automatically trigger tests based on the date/time we decide;
-   How to achieve Parallel Execution using Thread Local.
+   - POM - Learn how to follow good design practices that are maintainable;
+   - Parametrisation, global variables and the importance of a base page;
+   - Jenkins Continuous Integration-how to automatically trigger tests based on the date/time we decide;
+   - How to achieve Parallel Execution using Thread Local.
 
 ### Project 2: [liveproject2]
 
-- **Description:** A concise description of the project and its goals.
-- **Technologies:** List the technologies and tools used.
-- **Responsibilities:** Outline your responsibilities in the project.
-- **Key Achievements:** Mention any significant achievements or results.
+- **Description:** This project is built upon the foundation of the Selenium WebDriver framework created in Live Project 1, introducing new features such as Excel data-driven testing and a comprehensive login test .
+- **Technologies:** Apache POI, TestNG, Excel.
+- **Responsibilities:** Perform data-driven testing for the login scenario. 
+- **Key Achievements:** Apache POI Integration.
 
 ## Code Samples
 
